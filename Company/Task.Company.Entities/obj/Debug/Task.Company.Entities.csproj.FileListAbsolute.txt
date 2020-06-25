@@ -1,0 +1,12 @@
+C:\Users\EL-YaMaMa\Desktop\Task\taskBack\Company\Task.Company.Entities\bin\Debug\Task.Company.Entities.dll.config
+C:\Users\EL-YaMaMa\Desktop\Task\taskBack\Company\Task.Company.Entities\bin\Debug\Task.Company.Entities.dll
+C:\Users\EL-YaMaMa\Desktop\Task\taskBack\Company\Task.Company.Entities\bin\Debug\Task.Company.Entities.pdb
+C:\Users\EL-YaMaMa\Desktop\Task\taskBack\Company\Task.Company.Entities\bin\Debug\EntityFramework.dll
+C:\Users\EL-YaMaMa\Desktop\Task\taskBack\Company\Task.Company.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EL-YaMaMa\Desktop\Task\taskBack\Company\Task.Company.Entities\bin\Debug\EntityFramework.xml
+C:\Users\EL-YaMaMa\Desktop\Task\taskBack\Company\Task.Company.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EL-YaMaMa\Desktop\Task\taskBack\Company\Task.Company.Entities\obj\Debug\Task.Company.Entities.csprojAssemblyReference.cache
+C:\Users\EL-YaMaMa\Desktop\Task\taskBack\Company\Task.Company.Entities\obj\Debug\Task.Company.Entities.csproj.CoreCompileInputs.cache
+C:\Users\EL-YaMaMa\Desktop\Task\taskBack\Company\Task.Company.Entities\obj\Debug\Task.Company.Entities.csproj.CopyComplete
+C:\Users\EL-YaMaMa\Desktop\Task\taskBack\Company\Task.Company.Entities\obj\Debug\Task.Company.Entities.dll
+C:\Users\EL-YaMaMa\Desktop\Task\taskBack\Company\Task.Company.Entities\obj\Debug\Task.Company.Entities.pdb
